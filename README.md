@@ -24,4 +24,4 @@ This project involves a comprehensive analysis of ecommerce sales data to track 
 3. Use the slicers on the left to interact with the data.
 
 ---
-*Created by [Your Name] as part of a Data Analytics Portfolio.*
+*Created by Md Alvee Islam as part of a Data Analytics Portfolio.*
