@@ -3,7 +3,7 @@
 ## Project Overview
 This project involves a comprehensive analysis of ecommerce sales data to track key performance indicators (KPIs) and visualize business trends. The goal was to provide actionable insights into profitability, regional sales distribution, and year-over-year (YOY) growth.
 
-![Dashboard Preview](Dashboard_Preview.png)
+![Dashboard Preview](Dashboard Preview.png)
 
 ## Key Features
 - **Dynamic KPIs:** Real-time tracking of Total Sales ($2.3M+), Profit ($286K+), Quantity, and Profit Margin.
