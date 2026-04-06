@@ -1,8 +1,4 @@
-# ecommerce-sales-analysis-dashboard
-Interactive Excel dashboard for ecommerce sales analysis, featuring YOY growth metrics and regional performance tracking.
-
-
-# Ecommerce Sales Analysis Dashboard 📊
+# Ecommerce Sales Analysis Dashboard
 
 ## Project Overview
 This project involves a comprehensive analysis of ecommerce sales data to track key performance indicators (KPIs) and visualize business trends. The goal was to provide actionable insights into profitability, regional sales distribution, and year-over-year (YOY) growth.
