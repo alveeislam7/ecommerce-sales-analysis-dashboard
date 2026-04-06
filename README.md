@@ -20,8 +20,9 @@ This project involves a comprehensive analysis of ecommerce sales data to track 
 
 ## How to Use
 1. Download the `Ecommerce_Sales_Dashboard.xlsx` file.
-2. Open it in Microsoft Excel (Enable Macros/Content if prompted).
-3. Use the slicers on the left to interact with the data.
+2. Open it in Microsoft Excel (Click "Enable Content" if prompted).
+3. Interact with Slicers: Use the filters to explore different Segments and Regions.
+4. View YOY Growth: To see the Year-over-Year (YOY) growth metrics accurately, ensure you select at least two consecutive years in the Year slicer.
 
 ---
 *Created by Md Alvee Islam as part of a Data Analytics Portfolio.*
