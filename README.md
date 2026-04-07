@@ -1,28 +1,33 @@
-# Ecommerce Sales Analysis Dashboard
+# E-commerce Sales Analysis Dashboard | Excel 
 
-## Project Overview
-This project involves a comprehensive analysis of ecommerce sales data to track key performance indicators (KPIs) and visualize business trends. The goal was to provide actionable insights into profitability, regional sales distribution, and year-over-year (YOY) growth.
+## **Project Overview**
+This project involves a comprehensive analysis of e-commerce sales data to track key performance indicators (KPIs) and visualize business trends. The goal was to provide actionable insights into profitability, regional sales distribution, and Year-over-Year (YOY) growth to support data-driven decision-making.
 
 ![Dashboard Preview](screenshots/01-dashboard-preview.png)
 
-## Key Features
-- **Dynamic KPIs:** Real-time tracking of Total Sales ($2.3M+), Profit ($286K+), Quantity, and Profit Margin.
-- **Interactive Slicers:** Users can filter data by **Year**, **Segment**, and **Region**.
-- **YOY Analysis:** Automatic calculation of Year-over-Year growth percentages for all core metrics.
-- **Geospatial Mapping:** Visualization of sales distribution across US states.
-- **Product Insights:** Comparison of sales and profit across categories (Technology, Furniture, Office Supplies).
+## **Key Features & KPIs**
+* **Dynamic KPIs:** Real-time tracking of **Total Sales ($2.3M+)**, **Profit ($286K+)**, Quantity, and Profit Margin.
+* **Interactive Slicers:** Dynamic filtering by **Year**, **Segment**, and **Region**.
+* **YOY Analysis:** Automated calculation of Year-over-Year growth percentages for core business metrics.
+* **Geospatial Mapping:** Visualization of sales distribution across US states to identify high-performing markets.
+* **Product Insights:** Comparative analysis of sales and profit across categories (**Technology, Furniture, Office Supplies**).
 
-## Technical Skills Used
-* **Data Cleaning:** Handled missing values and standardized data formats in Excel.
-* **Pivot Tables:** Built complex pivot tables to aggregate data by month, category, and state.
-* **Advanced Formulas:** Used `CALCULATE`-style logic in Excel to determine YOY growth.
-* **Data Visualization:** Designed a clean, business-ready interface with custom formatting and charts.
+## **Domain Knowledge Applied**
+* **Retail Analytics:** Monitoring sales velocity and profit margins to evaluate product performance.
+* **Trend Analysis:** Utilizing YOY metrics to identify seasonal growth patterns and market shifts.
+* **Customer Segmentation:** Analyzing performance across Consumer, Corporate, and Home Office segments.
 
-## How to Use
-1. Download the `Ecommerce_Sales_Dashboard.xlsx` file.
-2. Open it in Microsoft Excel (Click "Enable Content" if prompted).
-3. Interact with Slicers: Use the filters to explore different Segments and Regions.
-4. View YOY Growth: To see the Year-over-Year (YOY) growth metrics accurately, ensure you select at least two consecutive years in the Year slicer.
+## **Technical Skills Demonstrated**
+* **Data Cleaning:** Standardized datasets and handled missing values using Excel functions.
+* **Pivot Tables & Charts:** Built complex pivot architectures to aggregate data by month, category, and geography.
+* **Advanced Formulas:** Implemented logic for YOY growth and profit margin calculations.
+* **Dashboard Design:** Created a clean, professional user interface with custom formatting and interactive elements.
+
+## **How to Explore**
+1. **Download:** Clone the repository or download the `ecommerce-sales-analysis.xlsx` file.
+2. **Open:** Open the file in Microsoft Excel (Click **"Enable Content"** if prompted).
+3. **Interact:** Use the **Slicers** to filter by Segment or Region. 
+4. **YOY View:** To see accurate Year-over-Year growth, ensure you select consecutive years in the Year slicer.
 
 ---
 *Created by Md Alvee Islam as part of a Data Analytics Portfolio.*
